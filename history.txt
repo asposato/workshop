@@ -1,0 +1,54 @@
+print("brave new world")
+1
+1 + 3
+1+3*2
+type(1+3*2)
+type(1+3*2.0)
+type(2.0)
+72/8
+71/7
+4^2
+true
+True
+False
+type(True)
+type(False)
+True == False
+False == False
+2546819732/2
+"aaadfkyl"
+type("aaadfykl")
+"aaa" + "bbb"
+type("aaa" + "bbb")
+"abc"[0]
+"abskdfni"[4]
+"ejfnlan"[2]
+"kerhbgnslaierhdjlskmfcbuirw"[12]
+input("what is your name? ")
+input("What is your name? ")
+type(input("What is your name? "))
+'You\'re my best friend, computer'
+"Andy"
+type(1+1)
+type("1")
+type(1)
+"Andy"
+(1, 3)
+type((1, 3))
+tuple((1,3,4,1))
+type((1, 3, 4, 1))
+("Andy",2,3)[0])
+("Andy", 1, 2, 5, 23, 9)[3]
+[0, 1, 2]
+type([0, 1, 2])
+[0], 1, 2, "Dog"][2]
+[0, 1, 2, "Dog"][4]
+[0, 1, 2, "Dog"][3]
+%hist
+%hist?
+%history
+q
+%history?
+%hist
+%history -f history.txt
+%history -f history.txt
